@@ -1,0 +1,10 @@
+C1M_School closing,C8EV_International travel controls,1.000
+C2M_Workplace closing,C8EV_International travel controls,1.000
+C3M_Cancel public events,C8EV_International travel controls,1.000
+C4M_Restrictions on gatherings,C8EV_International travel controls,1.000
+C8EV_International travel controls,H2_Testing policy,1.000
+C8EV_International travel controls,H3_Contact tracing,1.000
+H1_Public information campaigns,C8EV_International travel controls,1.000
+H1_Public information campaigns,H2_Testing policy,1.000
+H1_Public information campaigns,H3_Contact tracing,1.000
+H2_Testing policy,C8EV_International travel controls,1.000
